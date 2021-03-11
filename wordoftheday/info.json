@@ -1,0 +1,137 @@
+[
+    {
+        "meta": {
+            "id": "conglomerate:2",
+            "uuid": "7e9627f0-6963-459c-a946-61b67d1ee102",
+            "sort": "035530100",
+            "src": "collegiate",
+            "section": "alpha",
+            "stems": [
+                "conglomerate",
+                "conglomerated",
+                "conglomerates",
+                "conglomerating",
+                "conglomerative",
+                "conglomerator",
+                "conglomerators"
+            ],
+            "offensive": false
+        },
+        "hom": 2,
+        "hwi": {
+            "hw": "con*glom*er*ate",
+            "prs": [
+                {
+                    "mw": "k\u0259n-\u02c8gl\u00e4-m\u0259-\u02ccr\u0101t",
+                    "sound": {
+                        "audio": "conglo05",
+                        "ref": "c",
+                        "stat": "1"
+                    }
+                }
+            ]
+        },
+        "fl": "verb",
+        "ins": [
+            {
+                "ifc": "-at*ed",
+                "if": "con*glom*er*at*ed"
+            },
+            {
+                "ifc": "-at*ing",
+                "if": "con*glom*er*at*ing"
+            }
+        ],
+        "def": [
+            {
+                "vd": "intransitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}to gather into a mass or coherent whole "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "Infinite numbers of dull people {it}conglomerated{\/it} round her \u2026",
+                                                "aq": {
+                                                    "auth": "Virginia Woolf"
+                                                }
+                                            }
+                                        ]
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            },
+            {
+                "vd": "transitive verb",
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "{bc}{sx|accumulate||}"
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "uros": [
+            {
+                "ure": "con*glom*er*a*tive",
+                "prs": [
+                    {
+                        "mw": "k\u0259n-\u02c8gl\u00e4m-r\u0259-tiv",
+                        "sound": {
+                            "audio": "conglo06",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    },
+                    {
+                        "mw": "-\u02c8gl\u00e4-m\u0259-",
+                        "pun": ";"
+                    },
+                    {
+                        "mw": "-m\u0259-\u02ccr\u0101-"
+                    }
+                ],
+                "fl": "adjective"
+            },
+            {
+                "ure": "con*glom*er*a*tor",
+                "prs": [
+                    {
+                        "mw": "k\u0259n-\u02c8gl\u00e4-m\u0259-\u02ccr\u0101-t\u0259r",
+                        "sound": {
+                            "audio": "conglo07",
+                            "ref": "c",
+                            "stat": "1"
+                        }
+                    }
+                ],
+                "fl": "noun"
+            }
+        ],
+        "date": "1642{ds|i|||}",
+        "shortdef": [
+            "to gather into a mass or coherent whole",
+            "accumulate"
+        ]
+    }
+]
